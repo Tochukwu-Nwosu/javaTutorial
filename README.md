@@ -1,2 +1,2 @@
 # javaTutorial
-### This folder contains my java code examples
+This folder contains my java code examples
